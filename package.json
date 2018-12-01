@@ -1,7 +1,7 @@
 {
   "name": "codesandbox-fun",
   "version": "1.0.0",
-  "description": "",
+  "description": "Created with CodeSandbox just testing the FUN",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -22,5 +22,15 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabbyka/codesandbox_fun.git"
+  },
+  "author": "GN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabbyka/codesandbox_fun/issues"
+  },
+  "homepage": "https://github.com/gabbyka/codesandbox_fun#readme"
 }
